@@ -1,0 +1,354 @@
+[
+  {
+    "Alabama": {
+      "Europe": 18024,
+      "Asia": 47481,
+      "Africa": 0,
+      "Americas": 95074,
+      "Oceania": 0
+    },
+    "Alaska": {
+      "Europe": 8007,
+      "Asia": 27628,
+      "Africa": 0,
+      "Americas": 11373,
+      "Oceania": 0
+    },
+    "Arizona": {
+      "Europe": 82441,
+      "Asia": 151974,
+      "Africa": 22966,
+      "Americas": 608853,
+      "Oceania": 3634
+    },
+    "Arkansas": {
+      "Europe": 0,
+      "Asia": 29607,
+      "Africa": 0,
+      "Americas": 87549,
+      "Oceania": 3817
+    },
+    "California": {
+      "Europe": 667170,
+      "Asia": 3708094,
+      "Africa": 161186,
+      "Americas": 5563636,
+      "Oceania": 75717
+    },
+    "Colorado": {
+      "Europe": 68149,
+      "Asia": 109714,
+      "Africa": 26672,
+      "Americas": 287324,
+      "Oceania": 0
+    },
+    "Connecticut": {
+      "Europe": 133084,
+      "Asia": 112165,
+      "Africa": 19043,
+      "Americas": 221327,
+      "Oceania": 0
+    },
+    "Delaware": {
+      "Europe": 10511,
+      "Asia": 23910,
+      "Africa": 7723,
+      "Americas": 34527,
+      "Oceania": 0
+    },
+    "District of Columbia": {
+      "Europe": 15475,
+      "Asia": 15750,
+      "Africa": 13130,
+      "Americas": 39882,
+      "Oceania": 0
+    },
+    "Florida": {
+      "Europe": 378213,
+      "Asia": 375049,
+      "Africa": 58531,
+      "Americas": 2880474,
+      "Oceania": 0
+    },
+    "Georgia": {
+      "Europe": 88723,
+      "Asia": 256915,
+      "Africa": 77182,
+      "Americas": 525262,
+      "Oceania": 0
+    },
+    "Hawaii": {
+      "Europe": 12132,
+      "Asia": 193378,
+      "Africa": 0,
+      "Americas": 15867,
+      "Oceania": 23887
+    },
+    "Idaho": {
+      "Europe": 13921,
+      "Asia": 15156,
+      "Africa": 0,
+      "Americas": 61436,
+      "Oceania": 0
+    },
+    "Illinois": {
+      "Europe": 382164,
+      "Asia": 486589,
+      "Africa": 50779,
+      "Americas": 851718,
+      "Oceania": 0
+    },
+    "Indiana": {
+      "Europe": 43428,
+      "Asia": 92249,
+      "Africa": 18607,
+      "Americas": 152505,
+      "Oceania": 0
+    },
+    "Iowa": {
+      "Europe": 20628,
+      "Asia": 45251,
+      "Africa": 10424,
+      "Americas": 59893,
+      "Oceania": 0
+    },
+    "Kansas": {
+      "Europe": 15002,
+      "Asia": 55405,
+      "Africa": 9926,
+      "Americas": 109712,
+      "Oceania": 0
+    },
+    "Kentucky": {
+      "Europe": 21801,
+      "Asia": 46298,
+      "Africa": 10609,
+      "Americas": 64159,
+      "Oceania": 0
+    },
+    "Louisiana": {
+      "Europe": 16408,
+      "Asia": 56274,
+      "Africa": 0,
+      "Americas": 95960,
+      "Oceania": 0
+    },
+    "Maine": {
+      "Europe": 10858,
+      "Asia": 12869,
+      "Africa": 5577,
+      "Americas": 15588,
+      "Oceania": 0
+    },
+    "Maryland": {
+      "Europe": 85498,
+      "Asia": 267198,
+      "Africa": 127327,
+      "Americas": 332354,
+      "Oceania": 0
+    },
+    "Massachusetts": {
+      "Europe": 233750,
+      "Asia": 290004,
+      "Africa": 82643,
+      "Americas": 381998,
+      "Oceania": 0
+    },
+    "Michigan": {
+      "Europe": 139984,
+      "Asia": 281372,
+      "Africa": 24945,
+      "Americas": 155793,
+      "Oceania": 0
+    },
+    "Minnesota": {
+      "Europe": 44725,
+      "Asia": 147801,
+      "Africa": 77475,
+      "Americas": 120079,
+      "Oceania": 0
+    },
+    "Mississippi": {
+      "Europe": 0,
+      "Asia": 21831,
+      "Africa": 0,
+      "Americas": 35782,
+      "Oceania": 0
+    },
+    "Missouri": {
+      "Europe": 50228,
+      "Asia": 85521,
+      "Africa": 18596,
+      "Americas": 75751,
+      "Oceania": 0
+    },
+    "Nebraska": {
+      "Europe": 8594,
+      "Asia": 30162,
+      "Africa": 8908,
+      "Americas": 68425,
+      "Oceania": 0
+    },
+    "Nevada": {
+      "Europe": 42553,
+      "Asia": 153351,
+      "Africa": 13870,
+      "Americas": 308975,
+      "Oceania": 3182
+    },
+    "New Hampshire": {
+      "Europe": 18018,
+      "Asia": 24898,
+      "Africa": 4230,
+      "Americas": 23907,
+      "Oceania": 0
+    },
+    "New Jersey": {
+      "Europe": 314508,
+      "Asia": 592679,
+      "Africa": 88765,
+      "Americas": 869747,
+      "Oceania": 0
+    },
+    "New Mexico": {
+      "Europe": 15759,
+      "Asia": 21713,
+      "Africa": 0,
+      "Americas": 163124,
+      "Oceania": 0
+    },
+    "New York": {
+      "Europe": 758851,
+      "Asia": 1181560,
+      "Africa": 169588,
+      "Americas": 2192967,
+      "Oceania": 11725
+    },
+    "North Carolina": {
+      "Europe": 79562,
+      "Asia": 171526,
+      "Africa": 43420,
+      "Americas": 433464,
+      "Oceania": 0
+    },
+    "North Dakota": {
+      "Europe": 0,
+      "Asia": 6728,
+      "Africa": 3703,
+      "Americas": 0,
+      "Oceania": 0
+    },
+    "Ohio": {
+      "Europe": 116899,
+      "Asia": 178008,
+      "Africa": 53048,
+      "Americas": 111433,
+      "Oceania": 0
+    },
+    "Oklahoma": {
+      "Europe": 15588,
+      "Asia": 53715,
+      "Africa": 8943,
+      "Americas": 128647,
+      "Oceania": 0
+    },
+    "Oregon": {
+      "Europe": 59135,
+      "Asia": 110104,
+      "Africa": 10685,
+      "Americas": 192290,
+      "Oceania": 7447
+    },
+    "Pennsylvania": {
+      "Europe": 172793,
+      "Asia": 289127,
+      "Africa": 56185,
+      "Americas": 238673,
+      "Oceania": 0
+    },
+    "Rhode Island": {
+      "Europe": 31178,
+      "Asia": 24585,
+      "Africa": 16877,
+      "Americas": 64921,
+      "Oceania": 0
+    },
+    "South Carolina": {
+      "Europe": 37784,
+      "Asia": 48138,
+      "Africa": 0,
+      "Americas": 131631,
+      "Oceania": 0
+    },
+    "South Dakota": {
+      "Europe": 0,
+      "Asia": 7102,
+      "Africa": 4443,
+      "Americas": 7545,
+      "Oceania": 0
+    },
+    "Tennessee": {
+      "Europe": 32892,
+      "Asia": 84428,
+      "Africa": 25475,
+      "Americas": 151776,
+      "Oceania": 0
+    },
+    "Texas": {
+      "Europe": 182588,
+      "Asia": 796347,
+      "Africa": 144794,
+      "Americas": 3054285,
+      "Oceania": 9916
+    },
+    "Utah": {
+      "Europe": 25835,
+      "Asia": 42877,
+      "Africa": 6270,
+      "Americas": 147741,
+      "Oceania": 8646
+    },
+    "Vermont": {
+      "Europe": 8025,
+      "Asia": 7118,
+      "Africa": 0,
+      "Americas": 8517,
+      "Oceania": 0
+    },
+    "Virginia": {
+      "Europe": 100419,
+      "Asia": 377558,
+      "Africa": 86266,
+      "Americas": 349288,
+      "Oceania": 0
+    },
+    "Washington": {
+      "Europe": 151826,
+      "Asia": 359801,
+      "Africa": 47648,
+      "Americas": 325915,
+      "Oceania": 12889
+    },
+    "West Virginia": {
+      "Europe": 0,
+      "Asia": 11484,
+      "Africa": 0,
+      "Americas": 0,
+      "Oceania": 0
+    },
+    "Wisconsin": {
+      "Europe": 49400,
+      "Asia": 87634,
+      "Africa": 9844,
+      "Americas": 118462,
+      "Oceania": 0
+    },
+    "Wyoming": {
+      "Europe": 0,
+      "Asia": 0,
+      "Africa": 0,
+      "Americas": 11590,
+      "Oceania": 0
+    }
+  }
+]
