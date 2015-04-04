@@ -60,6 +60,21 @@ html, body {
     width: 100%;
 }
 
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size: 20px;
+    line-height: 50px;
+    padding: 0 50px;
+    margin: 0;
+    z-index: 2000;
+    background: #f8f8f8;
+    border-bottom: solid 2px #3388ff;
+    box-shadow: 0 0 10px #eee;
+}
+
 #map {
     height: 100%;
     width: 100%;
@@ -73,7 +88,7 @@ html, body {
     width: 35%;
     background: #fff;
     box-shadow: 0 0 10px #888;
-    padding: 40px 50px;
+    padding: 50px 50px 20px;
 }
 
 
