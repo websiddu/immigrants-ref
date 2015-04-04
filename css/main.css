@@ -97,6 +97,41 @@ html, body {
     height: 300px;
 }
 
+#legend {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    display: -webkit-box
+}
+
+.legend-key {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-box-flex: 1;
+    margin: 0 5px;
+    text-align: left;
+}
+
+.floating-legend {
+    background-color: #fff;
+    position: fixed;
+    bottom: 50px;
+    left: 80px;
+    width: 300px;
+    padding: 19px;
+    box-shadow: 0 0 5px #ddd;
+}
+
+.legend-key {
+    background: linear-gradient(to right, #fdbb84, #d7301f);
+}
+.units {
+    margin-top: 5px;
+    font-size: 11px
+}
+
+
 
 /* ==========================================================================
    Media Queries
