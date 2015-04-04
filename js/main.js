@@ -4,11 +4,13 @@
   var tilesUrl = "https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png",
     map = null,
     tiles = null,
+    closeTooltip = null,
     options = {
       maxZoom: 5,
       minZoom: 3,
       zoomControl: false
     },
+    popup = new L.Popup({ autoPan: false }),
     attributions = {
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
       '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
@@ -35,15 +37,36 @@
       style: getStyle,
       onEachFeature: onEachFeature
     }).addTo(map);
-    
+
     barGraph("USA");
   };
 
 
   var onEachFeature = function (feature, layer) {
     layer.on({
-      click: updateSidebar
+      click: updateSidebar,
+      mousemove: showTooltip,
+      mouseout: resetHighlight
     })
+  };
+
+  var resetHighlight = function() {
+    closeTooltip = window.setTimeout(function() { map.closePopup(); }, 100);
+  };
+
+  var showTooltip = function(e) {
+    var layer = e.target;
+    popup.setLatLng(e.latlng);
+    popup.setContent(getMapTooltip(layer.feature.properties));
+    if(!popup._map) {
+      popup.openOn(map);
+    }
+    window.clearTimeout(closeTooltip);
+    layer.bringToFront();
+  };
+
+  var getMapTooltip = function(properties) {
+    return "<h3>" + properties.name + "</h3> <h4> <small>Immigrants count – </small>"+ properties.total +"</h4>"
   };
 
   var updateSidebar = function (e) {
