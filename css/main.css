@@ -89,12 +89,18 @@ html, body {
     background: #fff;
     box-shadow: 0 0 10px #888;
     padding: 50px 50px 20px;
+    overflow-y: auto;
 }
 
 
 #bar-chart svg {
     width: 100%;
     height: 300px;
+}
+
+#pie-chart svg {
+    width: 100%;
+    height: 230px;
 }
 
 #legend {

@@ -40,6 +40,7 @@
     }).addTo(map);
 
     barGraph("USA");
+    setTimeout(function(){bindEvents();}, 100);
   };
 
 
@@ -70,7 +71,7 @@
     return "<h3>" + properties.name + "</h3> <h4> <small>Immigrants count – </small>"+ properties.total +"</h4>"
   };
 
-  // Update the sidebar graph 
+  // Update the sidebar graph
   var updateSidebar = function (e) {
     if(e.target.feature.properties['isActive'] != true) {
       statesLayer.eachLayer(function(layer) {
@@ -83,6 +84,7 @@
       e.target.setStyle(highlightOnClick(e));
       barGraph(e.target.feature.properties.name);
       e.target.feature.properties['isActive'] = true;
+      pieChart($('.current-continent').text(), e.target.feature.properties.name);
     }
     else {
       statesLayer.eachLayer(function(layer) {
@@ -92,6 +94,42 @@
       e.target.feature.properties['isActive'] = false;
       barGraph("USA");
     }
+  };
+
+  var bindEvents = function() {
+
+    $('.nv-bar').on('click', function(e){
+      var index = $('.nv-bar').index(this);
+      var continents = ['Europe', 'Asia', 'Africa', 'Americans', 'Oceania'];
+      var currentContinent = continents[index];
+      $('.current-continent').text(currentContinent);
+      pieChart(currentContinent, $('.current-state').text());
+    });
+  };
+
+  var pieChart = function(cont, state) {
+    $.getJSON('data/sub-split.json', function(data){
+      var filteredData = data[0][state][cont];
+      renderPieChart(filteredData);
+    });
+  };
+
+
+  var renderPieChart = function(data) {
+    console.log(formatData(data));
+    nv.addGraph(function() {
+      var chart = nv.models.pieChart()
+        .x(function(d) { return d.label })
+        .y(function(d) { return d.value })
+        .showLabels(true);
+
+      d3.select("#pie-chart svg")
+        .datum(formatData(data)[0].values)
+        .transition().duration(350)
+        .call(chart);
+
+      return chart;
+    });
 
   };
 
@@ -138,7 +176,6 @@
         .call(chart);
 
       nv.utils.windowResize(chart.update);
-
       return chart;
     });
   };

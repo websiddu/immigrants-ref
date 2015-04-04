@@ -1,952 +1,1513 @@
-[{
-"Alabama": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 17719,
-"South Central Asia": 12675,
-"South Eastern Asia": 13783,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 80603,
-"South America": 0,
-"Northern America": 0
-},
-"Alaska": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 6215,
-"South Central Asia": 0,
-"South Eastern Asia": 19658,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 5229,
-"South America": 0,
-"Northern America": 0
-},
-"Arizona": {
-"Northern Europe": 20323,
-"Western Europe": 23692,
-"Southern Europe": 8046,
-"Eastern Europe": 30277,
-"Eastern Asia": 39145,
-"South Central Asia": 38560,
-"South Eastern Asia": 53750,
-"Western Asia": 19943,
-"Eastern Africa": 8350,
-"Middle Africa": 0,
-"Western Africa": 5292,
-"Northern Africa": 4010,
-"Australia": 0,
-"Caribbean": 10895,
-"Central America": 540315,
-"South America": 18411,
-"Northern America": 39232
-},
-"Arkansas": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 8432,
-"South Eastern Asia": 12520,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 80822,
-"South America": 0,
-"Northern America": 0
-},
-"California": {
-"Northern Europe": 170625,
-"Western Europe": 158295,
-"Southern Europe": 86603,
-"Eastern Europe": 250292,
-"Eastern Asia": 1199466,
-"South Central Asia": 675233,
-"South Eastern Asia": 1575299,
-"Western Asia": 250351,
-"Eastern Africa": 51171,
-"Middle Africa": 0,
-"Western Africa": 31974,
-"Northern Africa": 48271,
-"Australia": 26386,
-"Caribbean": 71154,
-"Central America": 5120064,
-"South America": 243766,
-"Northern America": 128652
-},
-"Colorado": {
-"Northern Europe": 15522,
-"Western Europe": 22833,
-"Southern Europe": 0,
-"Eastern Europe": 25692,
-"Eastern Asia": 37506,
-"South Central Asia": 25683,
-"South Eastern Asia": 38542,
-"Western Asia": 0,
-"Eastern Africa": 12005,
-"Middle Africa": 0,
-"Western Africa": 5405,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 250841,
-"South America": 15859,
-"Northern America": 14707
-},
-"Connecticut": {
-"Northern Europe": 21161,
-"Western Europe": 15939,
-"Southern Europe": 37173,
-"Eastern Europe": 58547,
-"Eastern Asia": 32141,
-"South Central Asia": 46812,
-"South Eastern Asia": 24364,
-"Western Asia": 8527,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 8267,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 76130,
-"Central America": 55259,
-"South America": 74160,
-"Northern America": 15778
-},
-"Delaware": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 7329,
-"South Central Asia": 11103,
-"South Eastern Asia": 4155,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 3599,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 7247,
-"Central America": 22381,
-"South America": 3579,
-"Northern America": 0
-},
-"District of Columbia": {
-"Northern Europe": 4062,
-"Western Europe": 4902,
-"Southern Europe": 2290,
-"Eastern Europe": 4212,
-"Eastern Asia": 4945,
-"South Central Asia": 4285,
-"South Eastern Asia": 4709,
-"Western Asia": 0,
-"Eastern Africa": 6204,
-"Middle Africa": 0,
-"Western Africa": 3525,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 8607,
-"Central America": 21820,
-"South America": 7761,
-"Northern America": 0
-},
-"Florida": {
-"Northern Europe": 99696,
-"Western Europe": 90325,
-"Southern Europe": 64268,
-"Eastern Europe": 123048,
-"Eastern Asia": 78156,
-"South Central Asia": 100646,
-"South Eastern Asia": 148059,
-"Western Asia": 45074,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 13257,
-"Northern Africa": 19277,
-"Australia": 0,
-"Caribbean": 1521989,
-"Central America": 605702,
-"South America": 644763,
-"Northern America": 108020
-},
-"Georgia": {
-"Northern Europe": 21855,
-"Western Europe": 24286,
-"Southern Europe": 0,
-"Eastern Europe": 36341,
-"Eastern Asia": 81420,
-"South Central Asia": 92527,
-"South Eastern Asia": 69912,
-"Western Asia": 12481,
-"Eastern Africa": 23826,
-"Middle Africa": 0,
-"Western Africa": 34098,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 89749,
-"Central America": 358288,
-"South America": 60549,
-"Northern America": 16676
-},
-"Hawaii": {
-"Northern Europe": 0,
-"Western Europe": 5352,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 63177,
-"South Central Asia": 0,
-"South Eastern Asia": 127526,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 6151,
-"South America": 3366,
-"Northern America": 4617
-},
-"Idaho": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 5718,
-"Eastern Asia": 5016,
-"South Central Asia": 3845,
-"South Eastern Asia": 5471,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 53199,
-"South America": 0,
-"Northern America": 0
-},
-"Illinois": {
-"Northern Europe": 32350,
-"Western Europe": 38539,
-"Southern Europe": 38218,
-"Eastern Europe": 272178,
-"Eastern Asia": 134897,
-"South Central Asia": 173494,
-"South Eastern Asia": 125635,
-"Western Asia": 47014,
-"Eastern Africa": 9733,
-"Middle Africa": 0,
-"Western Africa": 21507,
-"Northern Africa": 9061,
-"Australia": 0,
-"Caribbean": 29114,
-"Central America": 745713,
-"South America": 58017,
-"Northern America": 18874
-},
-"Indiana": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 19552,
-"Eastern Asia": 33390,
-"South Central Asia": 28179,
-"South Eastern Asia": 23487,
-"Western Asia": 0,
-"Eastern Africa": 5683,
-"Middle Africa": 0,
-"Western Africa": 8019,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 128710,
-"South America": 9775,
-"Northern America": 0
-},
-"Iowa": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 11756,
-"Eastern Asia": 14570,
-"South Central Asia": 10608,
-"South Eastern Asia": 17253,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 51427,
-"South America": 0,
-"Northern America": 0
-},
-"Kansas": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 4913,
-"Eastern Asia": 14526,
-"South Central Asia": 13916,
-"South Eastern Asia": 22943,
-"Western Asia": 0,
-"Eastern Africa": 5064,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 98792,
-"South America": 5590,
-"Northern America": 0
-},
-"Kentucky": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 9645,
-"Eastern Asia": 15150,
-"South Central Asia": 12915,
-"South Eastern Asia": 12880,
-"Western Asia": 5112,
-"Eastern Africa": 3646,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 10930,
-"Central America": 44864,
-"South America": 0,
-"Northern America": 0
-},
-"Louisiana": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 11982,
-"South Central Asia": 11838,
-"South Eastern Asia": 27547,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 12552,
-"Central America": 71165,
-"South America": 9226,
-"Northern America": 0
-},
-"Maine": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 0,
-"South Eastern Asia": 5285,
-"Western Asia": 0,
-"Eastern Africa": 3147,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 0,
-"South America": 0,
-"Northern America": 11591
-},
-"Maryland": {
-"Northern Europe": 17432,
-"Western Europe": 20418,
-"Southern Europe": 12278,
-"Eastern Europe": 35181,
-"Eastern Asia": 92367,
-"South Central Asia": 91037,
-"South Eastern Asia": 68619,
-"Western Asia": 14687,
-"Eastern Africa": 32825,
-"Middle Africa": 15979,
-"Western Africa": 62319,
-"Northern Africa": 6395,
-"Australia": 0,
-"Caribbean": 62129,
-"Central America": 195359,
-"South America": 65423,
-"Northern America": 9443
-},
-"Massachusetts": {
-"Northern Europe": 42855,
-"Western Europe": 26149,
-"Southern Europe": 92233,
-"Eastern Europe": 72470,
-"Eastern Asia": 110455,
-"South Central Asia": 76244,
-"South Eastern Asia": 73281,
-"Western Asia": 29230,
-"Eastern Africa": 19371,
-"Middle Africa": 0,
-"Western Africa": 41715,
-"Northern Africa": 12367,
-"Australia": 0,
-"Caribbean": 154085,
-"Central America": 87799,
-"South America": 109802,
-"Northern America": 30312
-},
-"Michigan": {
-"Northern Europe": 19620,
-"Western Europe": 30146,
-"Southern Europe": 16399,
-"Eastern Europe": 73553,
-"Eastern Asia": 62163,
-"South Central Asia": 79312,
-"South Eastern Asia": 43025,
-"Western Asia": 94680,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 8813,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 12764,
-"Central America": 89724,
-"South America": 13056,
-"Northern America": 40249
-},
-"Minnesota": {
-"Northern Europe": 9549,
-"Western Europe": 10171,
-"Southern Europe": 0,
-"Eastern Europe": 22818,
-"Eastern Asia": 34101,
-"South Central Asia": 32368,
-"South Eastern Asia": 75115,
-"Western Asia": 5914,
-"Eastern Africa": 47093,
-"Middle Africa": 0,
-"Western Africa": 19506,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 83805,
-"South America": 18909,
-"Northern America": 12227
-},
-"Mississippi": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 0,
-"South Eastern Asia": 8900,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 28635,
-"South America": 0,
-"Northern America": 0
-},
-"Missouri": {
-"Northern Europe": 0,
-"Western Europe": 10830,
-"Southern Europe": 0,
-"Eastern Europe": 28779,
-"Eastern Asia": 26305,
-"South Central Asia": 25679,
-"South Eastern Asia": 25304,
-"Western Asia": 7744,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 56487,
-"South America": 7401,
-"Northern America": 0
-},
-"Nebraska": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 7275,
-"South Central Asia": 7548,
-"South Eastern Asia": 12487,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 61701,
-"South America": 0,
-"Northern America": 0
-},
-"Nevada": {
-"Northern Europe": 9490,
-"Western Europe": 10403,
-"Southern Europe": 4435,
-"Eastern Europe": 18084,
-"Eastern Asia": 35980,
-"South Central Asia": 14407,
-"South Eastern Asia": 93542,
-"Western Asia": 8933,
-"Eastern Africa": 8392,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 17743,
-"Central America": 266254,
-"South America": 15232,
-"Northern America": 9746
-},
-"New Hampshire": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 5873,
-"Eastern Asia": 7273,
-"South Central Asia": 9244,
-"South Eastern Asia": 6369,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 4334,
-"Central America": 5102,
-"South America": 5198,
-"Northern America": 9273
-},
-"New Jersey": {
-"Northern Europe": 39906,
-"Western Europe": 39534,
-"Southern Europe": 94646,
-"Eastern Europe": 139799,
-"Eastern Asia": 168120,
-"South Central Asia": 262342,
-"South Eastern Asia": 116317,
-"Western Asia": 44091,
-"Eastern Africa": 9371,
-"Middle Africa": 0,
-"Western Africa": 36696,
-"Northern Africa": 31606,
-"Australia": 0,
-"Caribbean": 283913,
-"Central America": 260550,
-"South America": 309121,
-"Northern America": 0
-},
-"New Mexico": {
-"Northern Europe": 0,
-"Western Europe": 6610,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 6686,
-"South Central Asia": 4381,
-"South Eastern Asia": 8651,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 3091,
-"Central America": 152054,
-"South America": 4558,
-"Northern America": 0
-},
-"New York": {
-"Northern Europe": 101173,
-"Western Europe": 95074,
-"Southern Europe": 166209,
-"Eastern Europe": 394752,
-"Eastern Asia": 550458,
-"South Central Asia": 358243,
-"South Eastern Asia": 162786,
-"Western Asia": 106559,
-"Eastern Africa": 18174,
-"Middle Africa": 0,
-"Western Africa": 90170,
-"Northern Africa": 36060,
-"Australia": 10780,
-"Caribbean": 1056561,
-"Central America": 505317,
-"South America": 573466,
-"Northern America": 57623
-},
-"North Carolina": {
-"Northern Europe": 22376,
-"Western Europe": 23216,
-"Southern Europe": 0,
-"Eastern Europe": 25246,
-"Eastern Asia": 45928,
-"South Central Asia": 54993,
-"South Eastern Asia": 59135,
-"Western Asia": 10334,
-"Eastern Africa": 10573,
-"Middle Africa": 0,
-"Western Africa": 13376,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 31142,
-"Central America": 344873,
-"South America": 40656,
-"Northern America": 16793
-},
-"North Dakota": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 0,
-"South Eastern Asia": 0,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 0,
-"South America": 0,
-"Northern America": 0
-},
-"Ohio": {
-"Northern Europe": 17860,
-"Western Europe": 24516,
-"Southern Europe": 14204,
-"Eastern Europe": 59884,
-"Eastern Asia": 55756,
-"South Central Asia": 60931,
-"South Eastern Asia": 37037,
-"Western Asia": 21493,
-"Eastern Africa": 20577,
-"Middle Africa": 0,
-"Western Africa": 18315,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 12810,
-"Central America": 67285,
-"South America": 15933,
-"Northern America": 15405
-},
-"Oklahoma": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 13267,
-"South Central Asia": 12176,
-"South Eastern Asia": 24439,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 116921,
-"South America": 0,
-"Northern America": 0
-},
-"Oregon": {
-"Northern Europe": 13946,
-"Western Europe": 13849,
-"Southern Europe": 0,
-"Eastern Europe": 29409,
-"Eastern Asia": 39012,
-"South Central Asia": 19181,
-"South Eastern Asia": 44543,
-"Western Asia": 7162,
-"Eastern Africa": 5362,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 165711,
-"South America": 8030,
-"Northern America": 15113
-},
-"Pennsylvania": {
-"Northern Europe": 30285,
-"Western Europe": 30375,
-"Southern Europe": 31060,
-"Eastern Europe": 80624,
-"Eastern Asia": 92591,
-"South Central Asia": 99226,
-"South Eastern Asia": 75176,
-"Western Asia": 20975,
-"Eastern Africa": 11509,
-"Middle Africa": 0,
-"Western Africa": 25295,
-"Northern Africa": 10507,
-"Australia": 0,
-"Caribbean": 92005,
-"Central America": 83235,
-"South America": 47228,
-"Northern America": 0
-},
-"Rhode Island": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 20174,
-"Eastern Europe": 4999,
-"Eastern Asia": 6746,
-"South Central Asia": 4649,
-"South Eastern Asia": 10295,
-"Western Asia": 2832,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 13744,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 27401,
-"Central America": 23238,
-"South America": 10983,
-"Northern America": 3299
-},
-"South Carolina": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 10436,
-"Eastern Asia": 15128,
-"South Central Asia": 12459,
-"South Eastern Asia": 16497,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 95960,
-"South America": 17619,
-"Northern America": 0
-},
-"South Dakota": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 0,
-"South Eastern Asia": 0,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 5523,
-"South America": 0,
-"Northern America": 0
-},
-"Tennessee": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 12082,
-"Eastern Asia": 23282,
-"South Central Asia": 25386,
-"South Eastern Asia": 24803,
-"Western Asia": 10080,
-"Eastern Africa": 9138,
-"Middle Africa": 0,
-"Western Africa": 6067,
-"Northern Africa": 6747,
-"Australia": 0,
-"Caribbean": 8977,
-"Central America": 123383,
-"South America": 11048,
-"Northern America": 0
-},
-"Texas": {
-"Northern Europe": 57007,
-"Western Europe": 56250,
-"Southern Europe": 15752,
-"Eastern Europe": 53030,
-"Eastern Asia": 176219,
-"South Central Asia": 272994,
-"South Eastern Asia": 295447,
-"Western Asia": 48960,
-"Eastern Africa": 41893,
-"Middle Africa": 11189,
-"Western Africa": 56100,
-"Northern Africa": 15515,
-"Australia": 0,
-"Caribbean": 61439,
-"Central America": 2825352,
-"South America": 122503,
-"Northern America": 44991
-},
-"Utah": {
-"Northern Europe": 6958,
-"Western Europe": 8051,
-"Southern Europe": 0,
-"Eastern Europe": 8879,
-"Eastern Asia": 14299,
-"South Central Asia": 9059,
-"South Eastern Asia": 16210,
-"Western Asia": 3105,
-"Eastern Africa": 2758,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 113239,
-"South America": 23413,
-"Northern America": 8746
-},
-"Vermont": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 0,
-"South Eastern Asia": 0,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 0,
-"South America": 0,
-"Northern America": 0
-},
-"Virginia": {
-"Northern Europe": 27226,
-"Western Europe": 28460,
-"Southern Europe": 12333,
-"Eastern Europe": 32084,
-"Eastern Asia": 103306,
-"South Central Asia": 132493,
-"South Eastern Asia": 113591,
-"Western Asia": 26825,
-"Eastern Africa": 31127,
-"Middle Africa": 0,
-"Western Africa": 27764,
-"Northern Africa": 18300,
-"Australia": 0,
-"Caribbean": 28409,
-"Central America": 213006,
-"South America": 92195,
-"Northern America": 15678
-},
-"Washington": {
-"Northern Europe": 30727,
-"Western Europe": 29681,
-"Southern Europe": 5964,
-"Eastern Europe": 85338,
-"Eastern Asia": 126779,
-"South Central Asia": 67645,
-"South Eastern Asia": 151543,
-"Western Asia": 13454,
-"Eastern Africa": 31570,
-"Middle Africa": 0,
-"Western Africa": 6073,
-"Northern Africa": 4428,
-"Australia": 4656,
-"Caribbean": 6666,
-"Central America": 254712,
-"South America": 16889,
-"Northern America": 47648
-},
-"West Virginia": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 0,
-"South Eastern Asia": 0,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 0,
-"South America": 0,
-"Northern America": 0
-},
-"Wisconsin": {
-"Northern Europe": 0,
-"Western Europe": 15571,
-"Southern Europe": 0,
-"Eastern Europe": 22045,
-"Eastern Asia": 22774,
-"South Central Asia": 21242,
-"South Eastern Asia": 38099,
-"Western Asia": 5031,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 99829,
-"South America": 7685,
-"Northern America": 0
-},
-"Wyoming": {
-"Northern Europe": 0,
-"Western Europe": 0,
-"Southern Europe": 0,
-"Eastern Europe": 0,
-"Eastern Asia": 0,
-"South Central Asia": 0,
-"South Eastern Asia": 0,
-"Western Asia": 0,
-"Eastern Africa": 0,
-"Middle Africa": 0,
-"Western Africa": 0,
-"Northern Africa": 0,
-"Australia": 0,
-"Caribbean": 0,
-"Central America": 9655,
-"South America": 0,
-"Northern America": 0
-}
-}]
+[
+  {
+    "Alabama": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 17719,
+        "South Central Asia": 12675,
+        "South Eastern Asia": 13783,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 80603,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Alaska": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 6215,
+        "South Central Asia": 0,
+        "South Eastern Asia": 19658,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 5229,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Arizona": {
+      "Europe": {
+        "Northern Europe": 20323,
+        "Western Europe": 23692,
+        "Southern Europe": 8046,
+        "Eastern Europe": 30277
+      },
+      "Asia": {
+        "Eastern Asia": 39145,
+        "South Central Asia": 38560,
+        "South Eastern Asia": 53750,
+        "Western Asia": 19943
+      },
+      "Africa": {
+        "Eastern Africa": 8350,
+        "Middle Africa": 0,
+        "Western Africa": 5292,
+        "Northern Africa": 4010
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 10895,
+        "Central America": 540315,
+        "South America": 18411,
+        "Northern America": 39232
+      }
+    },
+    "Arkansas": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 8432,
+        "South Eastern Asia": 12520,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 80822,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "California": {
+      "Europe": {
+        "Northern Europe": 170625,
+        "Western Europe": 158295,
+        "Southern Europe": 86603,
+        "Eastern Europe": 250292
+      },
+      "Asia": {
+        "Eastern Asia": 1199466,
+        "South Central Asia": 675233,
+        "South Eastern Asia": 1575299,
+        "Western Asia": 250351
+      },
+      "Africa": {
+        "Eastern Africa": 51171,
+        "Middle Africa": 0,
+        "Western Africa": 31974,
+        "Northern Africa": 48271
+      },
+      "Oceania": {
+        "Australia": 26386
+      },
+      "Americans": {
+        "Caribbean": 71154,
+        "Central America": 5120064,
+        "South America": 243766,
+        "Northern America": 128652
+      }
+    },
+    "Colorado": {
+      "Europe": {
+        "Northern Europe": 15522,
+        "Western Europe": 22833,
+        "Southern Europe": 0,
+        "Eastern Europe": 25692
+      },
+      "Asia": {
+        "Eastern Asia": 37506,
+        "South Central Asia": 25683,
+        "South Eastern Asia": 38542,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 12005,
+        "Middle Africa": 0,
+        "Western Africa": 5405,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 250841,
+        "South America": 15859,
+        "Northern America": 14707
+      }
+    },
+    "Connecticut": {
+      "Europe": {
+        "Northern Europe": 21161,
+        "Western Europe": 15939,
+        "Southern Europe": 37173,
+        "Eastern Europe": 58547
+      },
+      "Asia": {
+        "Eastern Asia": 32141,
+        "South Central Asia": 46812,
+        "South Eastern Asia": 24364,
+        "Western Asia": 8527
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 8267,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 76130,
+        "Central America": 55259,
+        "South America": 74160,
+        "Northern America": 15778
+      }
+    },
+    "Delaware": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 7329,
+        "South Central Asia": 11103,
+        "South Eastern Asia": 4155,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 3599,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 7247,
+        "Central America": 22381,
+        "South America": 3579,
+        "Northern America": 0
+      }
+    },
+    "District of Columbia": {
+      "Europe": {
+        "Northern Europe": 4062,
+        "Western Europe": 4902,
+        "Southern Europe": 2290,
+        "Eastern Europe": 4212
+      },
+      "Asia": {
+        "Eastern Asia": 4945,
+        "South Central Asia": 4285,
+        "South Eastern Asia": 4709,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 6204,
+        "Middle Africa": 0,
+        "Western Africa": 3525,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 8607,
+        "Central America": 21820,
+        "South America": 7761,
+        "Northern America": 0
+      }
+    },
+    "Florida": {
+      "Europe": {
+        "Northern Europe": 99696,
+        "Western Europe": 90325,
+        "Southern Europe": 64268,
+        "Eastern Europe": 123048
+      },
+      "Asia": {
+        "Eastern Asia": 78156,
+        "South Central Asia": 100646,
+        "South Eastern Asia": 148059,
+        "Western Asia": 45074
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 13257,
+        "Northern Africa": 19277
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 1521989,
+        "Central America": 605702,
+        "South America": 644763,
+        "Northern America": 108020
+      }
+    },
+    "Georgia": {
+      "Europe": {
+        "Northern Europe": 21855,
+        "Western Europe": 24286,
+        "Southern Europe": 0,
+        "Eastern Europe": 36341
+      },
+      "Asia": {
+        "Eastern Asia": 81420,
+        "South Central Asia": 92527,
+        "South Eastern Asia": 69912,
+        "Western Asia": 12481
+      },
+      "Africa": {
+        "Eastern Africa": 23826,
+        "Middle Africa": 0,
+        "Western Africa": 34098,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 89749,
+        "Central America": 358288,
+        "South America": 60549,
+        "Northern America": 16676
+      }
+    },
+    "Hawaii": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 5352,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 63177,
+        "South Central Asia": 0,
+        "South Eastern Asia": 127526,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 6151,
+        "South America": 3366,
+        "Northern America": 4617
+      }
+    },
+    "Idaho": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 5718
+      },
+      "Asia": {
+        "Eastern Asia": 5016,
+        "South Central Asia": 3845,
+        "South Eastern Asia": 5471,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 53199,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Illinois": {
+      "Europe": {
+        "Northern Europe": 32350,
+        "Western Europe": 38539,
+        "Southern Europe": 38218,
+        "Eastern Europe": 272178
+      },
+      "Asia": {
+        "Eastern Asia": 134897,
+        "South Central Asia": 173494,
+        "South Eastern Asia": 125635,
+        "Western Asia": 47014
+      },
+      "Africa": {
+        "Eastern Africa": 9733,
+        "Middle Africa": 0,
+        "Western Africa": 21507,
+        "Northern Africa": 9061
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 29114,
+        "Central America": 745713,
+        "South America": 58017,
+        "Northern America": 18874
+      }
+    },
+    "Indiana": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 19552
+      },
+      "Asia": {
+        "Eastern Asia": 33390,
+        "South Central Asia": 28179,
+        "South Eastern Asia": 23487,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 5683,
+        "Middle Africa": 0,
+        "Western Africa": 8019,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 128710,
+        "South America": 9775,
+        "Northern America": 0
+      }
+    },
+    "Iowa": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 11756
+      },
+      "Asia": {
+        "Eastern Asia": 14570,
+        "South Central Asia": 10608,
+        "South Eastern Asia": 17253,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 51427,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Kansas": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 4913
+      },
+      "Asia": {
+        "Eastern Asia": 14526,
+        "South Central Asia": 13916,
+        "South Eastern Asia": 22943,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 5064,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 98792,
+        "South America": 5590,
+        "Northern America": 0
+      }
+    },
+    "Kentucky": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 9645
+      },
+      "Asia": {
+        "Eastern Asia": 15150,
+        "South Central Asia": 12915,
+        "South Eastern Asia": 12880,
+        "Western Asia": 5112
+      },
+      "Africa": {
+        "Eastern Africa": 3646,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 10930,
+        "Central America": 44864,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Louisiana": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 11982,
+        "South Central Asia": 11838,
+        "South Eastern Asia": 27547,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 12552,
+        "Central America": 71165,
+        "South America": 9226,
+        "Northern America": 0
+      }
+    },
+    "Maine": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 5285,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 3147,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 0,
+        "South America": 0,
+        "Northern America": 11591
+      }
+    },
+    "Maryland": {
+      "Europe": {
+        "Northern Europe": 17432,
+        "Western Europe": 20418,
+        "Southern Europe": 12278,
+        "Eastern Europe": 35181
+      },
+      "Asia": {
+        "Eastern Asia": 92367,
+        "South Central Asia": 91037,
+        "South Eastern Asia": 68619,
+        "Western Asia": 14687
+      },
+      "Africa": {
+        "Eastern Africa": 32825,
+        "Middle Africa": 15979,
+        "Western Africa": 62319,
+        "Northern Africa": 6395
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 62129,
+        "Central America": 195359,
+        "South America": 65423,
+        "Northern America": 9443
+      }
+    },
+    "Massachusetts": {
+      "Europe": {
+        "Northern Europe": 42855,
+        "Western Europe": 26149,
+        "Southern Europe": 92233,
+        "Eastern Europe": 72470
+      },
+      "Asia": {
+        "Eastern Asia": 110455,
+        "South Central Asia": 76244,
+        "South Eastern Asia": 73281,
+        "Western Asia": 29230
+      },
+      "Africa": {
+        "Eastern Africa": 19371,
+        "Middle Africa": 0,
+        "Western Africa": 41715,
+        "Northern Africa": 12367
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 154085,
+        "Central America": 87799,
+        "South America": 109802,
+        "Northern America": 30312
+      }
+    },
+    "Michigan": {
+      "Europe": {
+        "Northern Europe": 19620,
+        "Western Europe": 30146,
+        "Southern Europe": 16399,
+        "Eastern Europe": 73553
+      },
+      "Asia": {
+        "Eastern Asia": 62163,
+        "South Central Asia": 79312,
+        "South Eastern Asia": 43025,
+        "Western Asia": 94680
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 8813,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 12764,
+        "Central America": 89724,
+        "South America": 13056,
+        "Northern America": 40249
+      }
+    },
+    "Minnesota": {
+      "Europe": {
+        "Northern Europe": 9549,
+        "Western Europe": 10171,
+        "Southern Europe": 0,
+        "Eastern Europe": 22818
+      },
+      "Asia": {
+        "Eastern Asia": 34101,
+        "South Central Asia": 32368,
+        "South Eastern Asia": 75115,
+        "Western Asia": 5914
+      },
+      "Africa": {
+        "Eastern Africa": 47093,
+        "Middle Africa": 0,
+        "Western Africa": 19506,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 83805,
+        "South America": 18909,
+        "Northern America": 12227
+      }
+    },
+    "Mississippi": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 8900,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 28635,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Missouri": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 10830,
+        "Southern Europe": 0,
+        "Eastern Europe": 28779
+      },
+      "Asia": {
+        "Eastern Asia": 26305,
+        "South Central Asia": 25679,
+        "South Eastern Asia": 25304,
+        "Western Asia": 7744
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 56487,
+        "South America": 7401,
+        "Northern America": 0
+      }
+    },
+    "Nebraska": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 7275,
+        "South Central Asia": 7548,
+        "South Eastern Asia": 12487,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 61701,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Nevada": {
+      "Europe": {
+        "Northern Europe": 9490,
+        "Western Europe": 10403,
+        "Southern Europe": 4435,
+        "Eastern Europe": 18084
+      },
+      "Asia": {
+        "Eastern Asia": 35980,
+        "South Central Asia": 14407,
+        "South Eastern Asia": 93542,
+        "Western Asia": 8933
+      },
+      "Africa": {
+        "Eastern Africa": 8392,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 17743,
+        "Central America": 266254,
+        "South America": 15232,
+        "Northern America": 9746
+      }
+    },
+    "New Hampshire": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 5873
+      },
+      "Asia": {
+        "Eastern Asia": 7273,
+        "South Central Asia": 9244,
+        "South Eastern Asia": 6369,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 4334,
+        "Central America": 5102,
+        "South America": 5198,
+        "Northern America": 9273
+      }
+    },
+    "New Jersey": {
+      "Europe": {
+        "Northern Europe": 39906,
+        "Western Europe": 39534,
+        "Southern Europe": 94646,
+        "Eastern Europe": 139799
+      },
+      "Asia": {
+        "Eastern Asia": 168120,
+        "South Central Asia": 262342,
+        "South Eastern Asia": 116317,
+        "Western Asia": 44091
+      },
+      "Africa": {
+        "Eastern Africa": 9371,
+        "Middle Africa": 0,
+        "Western Africa": 36696,
+        "Northern Africa": 31606
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 283913,
+        "Central America": 260550,
+        "South America": 309121,
+        "Northern America": 0
+      }
+    },
+    "New Mexico": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 6610,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 6686,
+        "South Central Asia": 4381,
+        "South Eastern Asia": 8651,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 3091,
+        "Central America": 152054,
+        "South America": 4558,
+        "Northern America": 0
+      }
+    },
+    "New York": {
+      "Europe": {
+        "Northern Europe": 101173,
+        "Western Europe": 95074,
+        "Southern Europe": 166209,
+        "Eastern Europe": 394752
+      },
+      "Asia": {
+        "Eastern Asia": 550458,
+        "South Central Asia": 358243,
+        "South Eastern Asia": 162786,
+        "Western Asia": 106559
+      },
+      "Africa": {
+        "Eastern Africa": 18174,
+        "Middle Africa": 0,
+        "Western Africa": 90170,
+        "Northern Africa": 36060
+      },
+      "Oceania": {
+        "Australia": 10780
+      },
+      "Americans": {
+        "Caribbean": 1056561,
+        "Central America": 505317,
+        "South America": 573466,
+        "Northern America": 57623
+      }
+    },
+    "North Carolina": {
+      "Europe": {
+        "Northern Europe": 22376,
+        "Western Europe": 23216,
+        "Southern Europe": 0,
+        "Eastern Europe": 25246
+      },
+      "Asia": {
+        "Eastern Asia": 45928,
+        "South Central Asia": 54993,
+        "South Eastern Asia": 59135,
+        "Western Asia": 10334
+      },
+      "Africa": {
+        "Eastern Africa": 10573,
+        "Middle Africa": 0,
+        "Western Africa": 13376,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 31142,
+        "Central America": 344873,
+        "South America": 40656,
+        "Northern America": 16793
+      }
+    },
+    "North Dakota": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 0,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 0,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Ohio": {
+      "Europe": {
+        "Northern Europe": 17860,
+        "Western Europe": 24516,
+        "Southern Europe": 14204,
+        "Eastern Europe": 59884
+      },
+      "Asia": {
+        "Eastern Asia": 55756,
+        "South Central Asia": 60931,
+        "South Eastern Asia": 37037,
+        "Western Asia": 21493
+      },
+      "Africa": {
+        "Eastern Africa": 20577,
+        "Middle Africa": 0,
+        "Western Africa": 18315,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 12810,
+        "Central America": 67285,
+        "South America": 15933,
+        "Northern America": 15405
+      }
+    },
+    "Oklahoma": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 13267,
+        "South Central Asia": 12176,
+        "South Eastern Asia": 24439,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 116921,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Oregon": {
+      "Europe": {
+        "Northern Europe": 13946,
+        "Western Europe": 13849,
+        "Southern Europe": 0,
+        "Eastern Europe": 29409
+      },
+      "Asia": {
+        "Eastern Asia": 39012,
+        "South Central Asia": 19181,
+        "South Eastern Asia": 44543,
+        "Western Asia": 7162
+      },
+      "Africa": {
+        "Eastern Africa": 5362,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 165711,
+        "South America": 8030,
+        "Northern America": 15113
+      }
+    },
+    "Pennsylvania": {
+      "Europe": {
+        "Northern Europe": 30285,
+        "Western Europe": 30375,
+        "Southern Europe": 31060,
+        "Eastern Europe": 80624
+      },
+      "Asia": {
+        "Eastern Asia": 92591,
+        "South Central Asia": 99226,
+        "South Eastern Asia": 75176,
+        "Western Asia": 20975
+      },
+      "Africa": {
+        "Eastern Africa": 11509,
+        "Middle Africa": 0,
+        "Western Africa": 25295,
+        "Northern Africa": 10507
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 92005,
+        "Central America": 83235,
+        "South America": 47228,
+        "Northern America": 0
+      }
+    },
+    "Rhode Island": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 20174,
+        "Eastern Europe": 4999
+      },
+      "Asia": {
+        "Eastern Asia": 6746,
+        "South Central Asia": 4649,
+        "South Eastern Asia": 10295,
+        "Western Asia": 2832
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 13744,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 27401,
+        "Central America": 23238,
+        "South America": 10983,
+        "Northern America": 3299
+      }
+    },
+    "South Carolina": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 10436
+      },
+      "Asia": {
+        "Eastern Asia": 15128,
+        "South Central Asia": 12459,
+        "South Eastern Asia": 16497,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 95960,
+        "South America": 17619,
+        "Northern America": 0
+      }
+    },
+    "South Dakota": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 0,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 5523,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Tennessee": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 12082
+      },
+      "Asia": {
+        "Eastern Asia": 23282,
+        "South Central Asia": 25386,
+        "South Eastern Asia": 24803,
+        "Western Asia": 10080
+      },
+      "Africa": {
+        "Eastern Africa": 9138,
+        "Middle Africa": 0,
+        "Western Africa": 6067,
+        "Northern Africa": 6747
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 8977,
+        "Central America": 123383,
+        "South America": 11048,
+        "Northern America": 0
+      }
+    },
+    "Texas": {
+      "Europe": {
+        "Northern Europe": 57007,
+        "Western Europe": 56250,
+        "Southern Europe": 15752,
+        "Eastern Europe": 53030
+      },
+      "Asia": {
+        "Eastern Asia": 176219,
+        "South Central Asia": 272994,
+        "South Eastern Asia": 295447,
+        "Western Asia": 48960
+      },
+      "Africa": {
+        "Eastern Africa": 41893,
+        "Middle Africa": 11189,
+        "Western Africa": 56100,
+        "Northern Africa": 15515
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 61439,
+        "Central America": 2825352,
+        "South America": 122503,
+        "Northern America": 44991
+      }
+    },
+    "Utah": {
+      "Europe": {
+        "Northern Europe": 6958,
+        "Western Europe": 8051,
+        "Southern Europe": 0,
+        "Eastern Europe": 8879
+      },
+      "Asia": {
+        "Eastern Asia": 14299,
+        "South Central Asia": 9059,
+        "South Eastern Asia": 16210,
+        "Western Asia": 3105
+      },
+      "Africa": {
+        "Eastern Africa": 2758,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 113239,
+        "South America": 23413,
+        "Northern America": 8746
+      }
+    },
+    "Vermont": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 0,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 0,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Virginia": {
+      "Europe": {
+        "Northern Europe": 27226,
+        "Western Europe": 28460,
+        "Southern Europe": 12333,
+        "Eastern Europe": 32084
+      },
+      "Asia": {
+        "Eastern Asia": 103306,
+        "South Central Asia": 132493,
+        "South Eastern Asia": 113591,
+        "Western Asia": 26825
+      },
+      "Africa": {
+        "Eastern Africa": 31127,
+        "Middle Africa": 0,
+        "Western Africa": 27764,
+        "Northern Africa": 18300
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 28409,
+        "Central America": 213006,
+        "South America": 92195,
+        "Northern America": 15678
+      }
+    },
+    "Washington": {
+      "Europe": {
+        "Northern Europe": 30727,
+        "Western Europe": 29681,
+        "Southern Europe": 5964,
+        "Eastern Europe": 85338
+      },
+      "Asia": {
+        "Eastern Asia": 126779,
+        "South Central Asia": 67645,
+        "South Eastern Asia": 151543,
+        "Western Asia": 13454
+      },
+      "Africa": {
+        "Eastern Africa": 31570,
+        "Middle Africa": 0,
+        "Western Africa": 6073,
+        "Northern Africa": 4428
+      },
+      "Oceania": {
+        "Australia": 4656
+      },
+      "Americans": {
+        "Caribbean": 6666,
+        "Central America": 254712,
+        "South America": 16889,
+        "Northern America": 47648
+      }
+    },
+    "West Virginia": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 0,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 0,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Wisconsin": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 15571,
+        "Southern Europe": 0,
+        "Eastern Europe": 22045
+      },
+      "Asia": {
+        "Eastern Asia": 22774,
+        "South Central Asia": 21242,
+        "South Eastern Asia": 38099,
+        "Western Asia": 5031
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 99829,
+        "South America": 7685,
+        "Northern America": 0
+      }
+    },
+    "Wyoming": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 0,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 9655,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "Wyoming": {
+      "Europe": {
+        "Northern Europe": 0,
+        "Western Europe": 0,
+        "Southern Europe": 0,
+        "Eastern Europe": 0
+      },
+      "Asia": {
+        "Eastern Asia": 0,
+        "South Central Asia": 0,
+        "South Eastern Asia": 0,
+        "Western Asia": 0
+      },
+      "Africa": {
+        "Eastern Africa": 0,
+        "Middle Africa": 0,
+        "Western Africa": 0,
+        "Northern Africa": 0
+      },
+      "Oceania": {
+        "Australia": 0
+      },
+      "Americans": {
+        "Caribbean": 0,
+        "Central America": 9655,
+        "South America": 0,
+        "Northern America": 0
+      }
+    },
+    "USA": {
+      "Europe": {
+        "Northern Europe": 941000,
+        "Western Europe": 971000,
+        "Southern Europe": 786000,
+        "Eastern Europe": 2113000
+      },
+      "Asia": {
+        "Eastern Asia": 3663000,
+        "South Central Asia": 3046000,
+        "South Eastern Asia": 3947000,
+        "Western Asia": 926000
+      },
+      "Africa": {
+        "Eastern Africa": 487000,
+        "Middle Africa": 86000,
+        "Western Africa": 599000,
+        "Northern Africa": 290000
+      },
+      "Oceania": {
+        "Australia": 105000
+      },
+      "Americans": {
+        "Caribbean": 3771000,
+        "Central America": 14686000,
+        "South America": 2731000,
+        "Northern America": 819000
+      }
+    }
+
+  }
+]
