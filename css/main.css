@@ -70,9 +70,10 @@ html, body {
     top: 0;
     bottom: 0;
     right: 0;
-    width: 40%;
+    width: 35%;
     background: #fff;
     box-shadow: 0 0 10px #888;
+    padding: 40px 50px;
 }
 
 
