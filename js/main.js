@@ -35,7 +35,10 @@
       style: getStyle,
       onEachFeature: onEachFeature
     }).addTo(map);
+    
+    barGraph("USA");
   };
+
 
   var onEachFeature = function (feature, layer) {
     layer.on({

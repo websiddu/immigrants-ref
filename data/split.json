@@ -349,6 +349,13 @@
       "Africa": 0,
       "Americas": 11590,
       "Oceania": 0
+    },
+    "USA": {
+      "Europe": 4782531,
+      "Asia": 11616126,
+      "Africa": 1626303,
+      "Americas": 21987199,
+      "Oceania": 160860
     }
   }
 ]
