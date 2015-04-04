@@ -31,7 +31,21 @@
 
     // Render the data to the map
     var renderDataToMap = function(data) {
-        L.geoJson(data, {style: getStyle}).addTo(map);
+        L.geoJson(data, {
+            style: getStyle,
+            onEachFeature: onEachFeature
+        }).addTo(map);
+    };
+
+    var onEachFeature = function(feature, layer){
+        layer.on({
+            click: updateSidebar
+        })
+    };
+
+    var updateSidebar = function(e){
+        var layer = e.target;
+        $('.current-state').text(layer.feature.properties.name)
     };
 
     // Util Methods
