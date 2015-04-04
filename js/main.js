@@ -26,12 +26,32 @@
 
     // Get the data from the json file
     var getData = function(){
-        $.getJSON('data/usa.json', renderDataToMap);
+        $.getJSON('data/immigrants.geo.json', renderDataToMap);
     };
 
     // Render the data to the map
     var renderDataToMap = function(data) {
-        L.geoJson(data).addTo(map);
+        L.geoJson(data, {style: getStyle}).addTo(map);
+    };
+
+    // Util Methods
+    var getStyle = function(feature) {
+        return {
+            fillColor: getColor(feature.properties.total),
+            weight: 1,
+            opacity: 0.9,
+            color: 'white',
+            dashArray: '3',
+            fillOpacity: 0.9
+        };
+    };
+
+    // Returns a color based on the scale
+    // Refer https://github.com/mbostock/d3/wiki/Quantitative-Scales
+    var getColor = function(value){
+        return d3.scale.linear()
+            .domain([18568, 4314692]) // Min and Max values
+            .range(['#fdbb84', '#d7301f'])(value)
     };
 
     // Initialize our application.
