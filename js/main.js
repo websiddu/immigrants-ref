@@ -10,6 +10,7 @@
       minZoom: 3,
       zoomControl: false
     },
+    statesLayer = null,
     popup = new L.Popup({ autoPan: false }),
     attributions = {
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
@@ -33,7 +34,7 @@
 
   // Render the data to the map
   var renderDataToMap = function (data) {
-    L.geoJson(data, {
+    statesLayer = L.geoJson(data, {
       style: getStyle,
       onEachFeature: onEachFeature
     }).addTo(map);
@@ -69,10 +70,48 @@
     return "<h3>" + properties.name + "</h3> <h4> <small>Immigrants count – </small>"+ properties.total +"</h4>"
   };
 
+  // Update the sidebar graph 
   var updateSidebar = function (e) {
-    var layer = e.target;
-    $('.current-state').text(layer.feature.properties.name)
-    barGraph(layer.feature.properties.name);
+    if(e.target.feature.properties['isActive'] != true) {
+      statesLayer.eachLayer(function(layer) {
+        layer.feature.properties.isActive = false
+      });
+
+      statesLayer.setStyle(setDisableStyle);
+
+      $('.current-state').text(e.target.feature.properties.name);
+      e.target.setStyle(highlightOnClick(e));
+      barGraph(e.target.feature.properties.name);
+      e.target.feature.properties['isActive'] = true;
+    }
+    else {
+      statesLayer.eachLayer(function(layer) {
+        layer.setStyle(getStyle(layer.feature))
+      });
+      $('.current-state').text("USA");
+      e.target.feature.properties['isActive'] = false;
+      barGraph("USA");
+    }
+
+  };
+
+  // Disabled styles
+  var setDisableStyle = function() {
+    return {
+      weight: 0,
+      dashArray: '',
+      fillOpacity: 0.3
+    }
+  };
+
+  // Highlight styles
+  var highlightOnClick = function() {
+    return {
+      weight: 1,
+      color: '#fff',
+      dashArray: '',
+      fillOpacity: 1
+    }
   };
 
   var barGraph = function (state) {
@@ -104,6 +143,7 @@
     });
   };
 
+  // Prepare our data in a certain format
   var formatData = function (data) {
 
     var output = [
@@ -119,7 +159,6 @@
         "value": data[key]
       })
     }
-
     return output;
   };
 
